@@ -40,9 +40,19 @@ h5{
     font-size: large;
    
 }
-ol,ul{
+ul{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     color: white;
+    list-style-type: circle;
+    
+   
+    
+}
+ol{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    list-style-type:lower-alpha ;
+    
    
     
 }
